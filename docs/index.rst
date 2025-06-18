@@ -5,7 +5,7 @@ How to Update GM GPS Map? A Simple Guide
    :maxdepth: 2
    :caption: Contents:
 
-.. image:: Add a subheading (3).gif
+.. image:: update.gif
    :alt: My Project Logo
    :width: 400px
    :align: center
